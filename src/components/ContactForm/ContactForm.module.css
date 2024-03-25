@@ -1,0 +1,22 @@
+.contactForm {
+  width: 360px;
+  padding: 20px;
+  background: white;
+  border: 1px solid black;
+  border-radius: 4px;
+}
+
+.formField {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 16px;
+}
+.error {
+  color: salmon;
+}
+
+.contactButton {
+  position: relative;
+  left: 50%;
+  transform: translate(-50%, 0);
+}

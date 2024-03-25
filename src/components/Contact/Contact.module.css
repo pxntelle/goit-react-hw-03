@@ -1,0 +1,21 @@
+.card {
+  display: flex;
+  width: 260px;
+  height: 68px;
+  background: white;
+  border: 1px solid black;
+  border-radius: 4px;
+  padding: 12px;
+  text-align: start;
+  align-items: center;
+}
+.icon {
+  margin-right: 8px;
+}
+
+.deleteButton {
+  margin-left: auto;
+  height: 44px;
+  align-self: center;
+  background: lightsalmon;
+}
